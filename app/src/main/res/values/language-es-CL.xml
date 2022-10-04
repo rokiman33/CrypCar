@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">Iniciar Sesion</string>
+    <string name="Logout">Salir</string>
+    <string name="SignUp">Registrarse</string>
+    <string name="NotAccount">¿ No Tienes Cuenta ?</string>
+</resources>
