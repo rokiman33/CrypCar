@@ -4,4 +4,10 @@
     <string name="Logout">Salir</string>
     <string name="SignUp">Registrarse</string>
     <string name="NotAccount">¿ No Tienes Cuenta ?</string>
+    <string name="AccountIn">¿ Ya Tienes Cuentas ?</string>
+    <string name="firstName">Nombre</string>
+    <string name="lastName">Apellido</string>
+    <string name="phone">Telefono</string>
+    <string name="email">Correo Electronico</string>
+    <string name="password">Contraseña</string>
 </resources>
